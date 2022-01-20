@@ -12,7 +12,7 @@ const InplaceProps = [
         description: "Displays a button to switch back to display mode."
     },
     {
-        name: "diabled",
+        name: "disabled",
         type: "boolean",
         default: "false",
         description: "When present, it specifies that the element should be disabled."
